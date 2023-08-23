@@ -26,4 +26,4 @@ The robot reaches to the reference pose calculating the required joint angle usi
 
 ## Working video
 
-![Final demo](https://github.com/PurvangPatel/Image_Based_Visual_Servoing_of_RR_Manipulator/assets/72921304/7bea13de-4a99-41a9-85c6-18d4308a8e0f)
+![Final demo](https://github.com/PurvangPatel/Image_Based_Visual_Servoing_of_RR_Manipulator/assets/72921304/f300625d-8389-444d-9f15-a0b672f68a09)
